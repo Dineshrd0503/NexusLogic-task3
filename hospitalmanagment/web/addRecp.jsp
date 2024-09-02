@@ -1,8 +1,4 @@
-<%-- 
-    Document   : UserHome
-    Created on : 13 Aug, 2020, 9:56:36 AM
-    Author     : Admin
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
