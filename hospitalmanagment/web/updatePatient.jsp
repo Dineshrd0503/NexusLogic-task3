@@ -1,8 +1,4 @@
-<%-- 
-    Document   : updatePatient
-    Created on : 19 Aug, 2020, 5:19:02 PM
-    Author     : Admin
---%>
+
 
 <%@page import="java.sql.Statement"%>
 <%@page import="java.sql.ResultSet"%>
