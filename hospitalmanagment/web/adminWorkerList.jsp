@@ -1,8 +1,4 @@
-<%-- 
-    Document   : adminWorkerList
-    Created on : 15 Aug, 2020, 3:56:36 AM
-    Author     : Admin
---%>
+
 
 <%@page import="java.sql.ResultSet"%>
 <%@page import="java.sql.Statement"%>
