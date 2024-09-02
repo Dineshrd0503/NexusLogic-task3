@@ -1,8 +1,3 @@
-<%-- 
-    Document   : UserHome
-    Created on : 13 Aug, 2020, 9:56:36 AM
-    Author     : Admin
---%>
 
 <%@page import="java.sql.Connection"%>
 <%@page import="java.sql.ResultSet"%>
