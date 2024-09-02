@@ -1,8 +1,3 @@
-<%-- 
-    Document   : deletePatient
-    Created on : 19 Aug, 2020, 5:52:13 PM
-    Author     : Admin
---%>
 
 <%@page import="java.sql.Statement"%>
 <%@page import="java.sql.Connection"%>
